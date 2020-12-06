@@ -11,8 +11,6 @@
     <img src="crawling.gif">
     <img src="floating.gif">
     <img src="swimming.gif">
-  </div>
-  <div class="row">
     <img src="idle-torch.gif">
     <img src="walking-torch.gif">
     <img src="jumping-torch.gif">
